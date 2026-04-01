@@ -1,0 +1,17 @@
+com\tasty\tasty\controller\RecipeController.class
+com\tasty\tasty\repository\RecipeRepository.class
+com\tasty\tasty\model\MealReminder.class
+com\tasty\tasty\model\Recipe.class
+com\tasty\tasty\model\Ingredient.class
+com\tasty\tasty\repository\MealReminderRepository.class
+com\tasty\tasty\controller\UserController.class
+com\tasty\tasty\model\User.class
+com\tasty\tasty\util\JwtUtil.class
+com\tasty\tasty\util\IngredientSubstitute.class
+com\tasty\tasty\repository\UserRepository.class
+com\tasty\tasty\model\MealSchedule.class
+com\tasty\tasty\TastyApplication.class
+com\tasty\tasty\model\Comment.class
+com\tasty\tasty\repository\MealScheduleRepository.class
+com\tasty\tasty\config\JwtFilter.class
+com\tasty\tasty\config\SecurityConfig.class

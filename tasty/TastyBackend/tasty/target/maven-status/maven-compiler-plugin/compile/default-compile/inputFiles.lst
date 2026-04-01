@@ -1,0 +1,17 @@
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\config\JwtFilter.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\config\SecurityConfig.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\controller\RecipeController.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\controller\UserController.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\Comment.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\Ingredient.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\MealReminder.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\MealSchedule.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\Recipe.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\model\User.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\repository\MealReminderRepository.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\repository\MealScheduleRepository.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\repository\RecipeRepository.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\repository\UserRepository.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\TastyApplication.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\util\IngredientSubstitute.java
+C:\MINI_Project\tasty\TastyBackend\tasty\src\main\java\com\tasty\tasty\util\JwtUtil.java
